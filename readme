@@ -1,0 +1,5 @@
+caution:
+
+Please use STCISP 6.86u to down .hex(program) and .bin(EEPROM) file ,this software on www.stcmcu.com.
+Using BK4802Ncalc.exe to calculate TX &RX freq. On EEPROM,e.g channel No.0,: 0x000h -0x0001h is txreg0,,  0x0002h -0x0003h is txreg1, 0x0004h -0x0005h is txreg2 ;0x0006h -0x0007h is rxreg0, 0x0008h -0x0009h is rxreg1, 0x000ah -0x000bh is rxreg2.
+some bit is not used, do not care.
